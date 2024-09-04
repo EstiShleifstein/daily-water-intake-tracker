@@ -1,9 +1,12 @@
 # Getting Started
+To view live website, head over to: https://fabulous-choux-54cbc4.netlify.app/.
+
 Install the dependencies and run the project
 ```
 npm install
 npm start
 ```
+
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
